@@ -1,5 +1,14 @@
 # Gestión de estudiantes: React + Spring Boot
 
+## Integrantes
+
+- Astuhuaman Vega Max Steven
+- Levis Escobedo Eduardo Valentin
+- Rouillon Haro Favio
+- Tataje Guzman Kenner Alison
+- Guzmán Romero Diego Alonso
+- Munayco Sirlopu Ronald Alfredo
+
 ## Requisitos
 - Java 17 o superior y Maven 3.9+
 - Node.js 18 o superior
